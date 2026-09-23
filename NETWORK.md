@@ -1,19 +1,10 @@
-# incident-runbook — Zion App Network
+# Incident Runbook
 
-AI Incident Runbook Generator — turn incidents into executable runbooks.
+Incident runbook tooling.
 
-- Live app: https://ziontechgroup.com/incident-runbook/
-- Homepage: https://ziontechgroup.com
-- Network hub: https://zion-support.github.io/zion-network/
-- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [zion-ai-incident-runbook](https://github.com/Zion-support/zion-ai-incident-runbook) · [zion-ai-incident-commander](https://github.com/Zion-support/zion-ai-incident-commander) · [ops-runbook-ai](https://github.com/Zion-support/ops-runbook-ai) · [incident-timeline-reconstructor](https://github.com/Zion-support/incident-timeline-reconstructor) · [postmortem-generator](https://github.com/Zion-support/postmortem-generator)
 
-## Related apps (SRE & Operations)
-- [postmortem-generator](https://ziontechgroup.com/postmortem-generator/) — blameless postmortems
-- [zion-ai-sre-postmortem-writer](https://ziontechgroup.com/zion-ai-sre-postmortem-writer) — auto-drafted postmortems
-- [ops-runbook-ai](https://ziontechgroup.com/ops-runbook-ai/) — AI-generated operational runbooks
-- [incident-timeline-reconstructor](https://ziontechgroup.com/incident-timeline-reconstructor/) — rebuild timelines from logs
-- [ai-infrastructure-monitor](https://ai-infrastructure-monitor.ziontechgroup.com) — AI anomaly detection
-- [zion-status](https://zion-support.github.io/zion-status/) — public status page
-
----
-Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
